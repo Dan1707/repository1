@@ -102,10 +102,6 @@
   border-radius: 10px;
   align-self: flex-start;
 }
-.header__btn:before {
-  content: "";
-  position: absolute;
-}
 .header__bg {
   max-width: 891px;
   max-height: 784px;

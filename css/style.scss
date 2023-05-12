@@ -113,11 +113,6 @@ $secondary-color: #7f7f7f;
     color: $light-color;
     border-radius: 10px;
     align-self: flex-start;
-    &:before {
-      content: "";
-      position: absolute;
-      
-    }
   }
 
   &__bg {
