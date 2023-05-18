@@ -73,3 +73,19 @@ $secondary-color: #7f7f7f;
     border-radius: 7px;
   }
 }
+// MAIN
+.main {
+}
+// BRAND
+.brand {
+  padding: 60px 0;
+  width: 100vw;
+  background-color: $primary-color;
+  &__container {
+    @include container();
+    @include flex();
+  }
+
+  &__item {
+  }
+}
